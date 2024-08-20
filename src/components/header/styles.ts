@@ -8,7 +8,7 @@ export const BaseHeaderContainer = styled.header`
   margin-top: -88px;
 
   background: ${({ theme }) => theme["base-profile"]};
-  box-shadow: 0px 2px 28px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 12px 28px rgba(0, 0, 0, 0.4);
   z-index: 10;
 
   border-radius: 10px;
